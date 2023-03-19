@@ -37,10 +37,10 @@
     );
   
     /* Sidebar */
-    --sidebar-bg: radial-gradient(circle, #242424 0%, #1d1f27 100%);
-    --sidebar-muted-color: #6d6c6b;
-    --sidebar-active-color: rgb(255, 255, 255, 0.8);
-    --nav-cursor-color: rgb(183, 182, 182);
+    --sidebar-bg: radial-gradient(circle, #1d1f27 50%, #1d1f27 100%);
+    --sidebar-muted-color: #ffffff;
+    --sidebar-active-color: rgb(238, 78, 58, 0.8); //rgb(255, 255, 255, 0.8);
+    --nav-cursor-color: rgb(238, 78, 58);
     --sidebar-btn-bg: rgb(117, 116, 116, 0.2);
   
     /* Topbar */
