@@ -1,8 +1,9 @@
 # frozen_string_literal: true
 
 source "https://rubygems.org"
-
-gem "jekyll-theme-chirpy", "~> 5.4", ">= 5.4.0"
+# Old code was pointing to a version which was having layout issues. Currently pointing to a specific tag to make sure UI doesn't break. Revert and point to main branch once the fix is in
+# gem "jekyll-theme-chirpy", "~> 5.4", ">= 5.4.0" 
+gem "jekyll-theme-chirpy", "= 5.6.0"
 
 group :test do
   gem "html-proofer", "~> 3.18"
