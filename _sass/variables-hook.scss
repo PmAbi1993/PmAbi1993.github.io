@@ -103,6 +103,11 @@
     --timeline-node-bg: rgb(150, 152, 156);
     --timeline-color: rgb(63, 65, 68);
     --timeline-year-dot-color: var(--timeline-color);
+    
+    /* Codeblocks */
+    --highlight-bg-color: #000;
+    --code-header-text-color: #fff;
+
   
     .post img[data-src] {
       &.lazyloaded {
