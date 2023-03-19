@@ -1,6 +1,7 @@
 ---
 title: Initial Commit
 date: 2023-03-19 03:40 +0000 
+pin: true
 categories: [TOP_CATEGORIE, SUB_CATEGORIE]
 tags: [tag]     # TAG names should always be lowercase
 ---
@@ -29,6 +30,15 @@ class Dude {
 
 ```
 
+
+
+# Codeblock with no lines
+
+```shell
+echo 'No more line numbers!'
+```
+{: .nolineno }
+
 Why do we use it?
 It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English. Many desktop publishing packages and web page editors now use Lorem Ipsum as their default model text, and a search for 'lorem ipsum' will uncover many web sites still in their infancy. Various versions have evolved over the years, sometimes by accident, sometimes on purpose (injected humour and the like).
 
@@ -48,3 +58,19 @@ There are many variations of passages of Lorem Ipsum available, but the majority
 	lists
 	Start with 'Lorem
 ipsum dolor sit amet...'
+
+
+>Type 1 post
+{: .prompt-tip }
+
+>Type 2 post
+{: .prompt-info }
+
+>Type 3 post
+{: .prompt-warning }
+
+>Type 4 post
+{: .prompt-danger }
+
+
+There are several types of prompts: tip, info, warning, and danger.
