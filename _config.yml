@@ -19,9 +19,9 @@ timezone: Asia/Kolkata
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 # ↓ --------------------------
 
-title: iOS-Dev Expeditions                          # the main title
+title: My Dev Expeditions                          # the main title
 
-tagline: Expert iOS Strategies   # it will display as the sub-title
+tagline: 💭 After-Thoughts decoded 💭    # it will display as the sub-title
 
 description: >-                        # used by seo meta and the atom feed
   A comprehensive guide to mastering iOS development for experienced developers.
