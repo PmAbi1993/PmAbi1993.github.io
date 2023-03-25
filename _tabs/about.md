@@ -18,12 +18,3 @@ In the daytime, I wear the mask of an **_iOS Developer_**👨‍💻 at a presti
 Learning should be an entertaining experiance 😃. 
 
 ### Welcome aboard, and may the code be with you! 🤲
-
-
-`Dude`
-
-> # Heading
-> This is a large 
-> text that had to be splitted to small number of components
-> so that it can be easily inspirable to others
-{: .promotion }
