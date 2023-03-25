@@ -44,7 +44,7 @@ A collective review of our thoughts is an excellent way to improve our thought p
 
 ## 3. Sparking inspirations onto Thy
 
-If I could inspire at least a single person to become 1% better or to impart knowledge. Then Happy++. More over a friendly rivalry that is mutually beneficial is what the society should be built upon. 
+If I could inspire at least a single person to become 1% better or to impart knowledge. Then Happy++. More over a friendly rivalry that is mutually beneficial is what the society should be built upon. `Kakkarot?, that you?`
 
 ## 4. Ascension to a Technical Architect
 
