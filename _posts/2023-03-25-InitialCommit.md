@@ -1,6 +1,7 @@
 ---
 title: Initial Commit
-date: 2023-03-25 03:40 +0000 
+date: 2023-03-25 03:40 +0000
+tags: [me]
 pin: true
 ---
 
